@@ -1,0 +1,10 @@
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\MVCDemoDB.sqlproj.AssemblyReference.cache
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\ChanneAM\source\repos\Swetha\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
