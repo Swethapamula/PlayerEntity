@@ -1736,19 +1736,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ChanneAM\\.nuget\\packages\\": {}
+    "C:\\Users\\906284\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\WorkerService\\WorkerService.csproj",
+      "projectUniqueName": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\WorkerService\\WorkerService.csproj",
       "projectName": "WorkerService",
-      "projectPath": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\WorkerService\\WorkerService.csproj",
-      "packagesPath": "C:\\Users\\ChanneAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\WorkerService\\obj\\",
+      "projectPath": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\WorkerService\\WorkerService.csproj",
+      "packagesPath": "C:\\Users\\906284\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\WorkerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ChanneAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\906284\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1762,8 +1762,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\DataLibrary\\DataLibrary.csproj": {
-              "projectPath": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\DataLibrary\\DataLibrary.csproj"
+            "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\DataLibrary\\DataLibrary.csproj": {
+              "projectPath": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\DataLibrary\\DataLibrary.csproj"
             }
           }
         }
@@ -1793,12 +1793,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

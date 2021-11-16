@@ -769,19 +769,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ChanneAM\\.nuget\\packages\\": {}
+    "C:\\Users\\906284\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\DataLibrary\\DataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\DataLibrary\\DataLibrary.csproj",
       "projectName": "DataLibrary",
-      "projectPath": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\DataLibrary\\DataLibrary.csproj",
-      "packagesPath": "C:\\Users\\ChanneAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChanneAM\\source\\repos\\Swetha\\DataLibrary\\obj\\",
+      "projectPath": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\DataLibrary\\DataLibrary.csproj",
+      "packagesPath": "C:\\Users\\906284\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\906284\\Desktop\\SciSports\\New folder\\Swetha\\DataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ChanneAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\906284\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -835,7 +835,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
